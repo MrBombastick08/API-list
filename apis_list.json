@@ -1,0 +1,38 @@
+[
+  {
+    "name": "JSONPlaceholder (Posts)",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "description": "Тестовый API с фейковыми постами",
+    "method": "GET"
+  },
+  {
+    "name": "JSONPlaceholder (Users)",
+    "url": "https://jsonplaceholder.typicode.com/users",
+    "description": "Тестовый API со списком пользователей",
+    "method": "GET"
+  },
+  {
+    "name": "Exchange Rates (USD Base)",
+    "url": "https://open.er-api.com/v6/latest/USD",
+    "description": "Курсы валют относительно USD",
+    "method": "GET"
+  },
+  {
+    "name": "Cat Facts",
+    "url": "https://catfact.ninja/facts",
+    "description": "Случайные факты о кошках",
+    "method": "GET"
+  },
+  {
+    "name": "Dog API (Breeds)",
+    "url": "https://dog.ceo/api/breeds/list/all",
+    "description": "Список всех пород собак",
+    "method": "GET"
+  },
+  {
+    "name": "Public University List (RU)",
+    "url": "http://universities.hipolabs.com/search?country=Russian+Federation",
+    "description": "Список университетов РФ",
+    "method": "GET"
+  }
+]
